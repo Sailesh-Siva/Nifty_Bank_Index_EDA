@@ -1,0 +1,16 @@
+Mean Price Stats for Banks and Nifty Bank Index
+Price Movement Over Time
+Monthly Average Daily Returns by Index
+Quarterly Average Daily Returns by Index
+Moving Averages (Simple and Exponential)
+Price Correlation Between Banks
+
+Relative Strength Index (RSI)
+Candlestick Plot
+Bollinger Bands
+
+Daily Price Volatility for Each Bank
+Rolling Volatility
+Average Monthly High-Low Range Over Time
+Support and Resistance Levels for Banks and Nifty Bank Index
+Yearly ROI (%)
